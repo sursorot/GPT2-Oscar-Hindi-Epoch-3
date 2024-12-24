@@ -1,5 +1,3 @@
-# GPT2_OSCAR-Hindi-epoch3
-This project fine-tunes the GPT-2 Open Source Model on the Hindi dataset from the OSCAR corpus, derived from Common Crawl. The aim of this project is to adapt GPT-2, originally designed for English text, to generate coherent and contextually accurate Hindi text.
 # GPT-2 Hindi Fine-Tuning on OSCAR Dataset
 
 This project fine-tunes the **GPT-2 Open Source Model** on the **Hindi dataset** from the **OSCAR corpus**, derived from Common Crawl. The aim of this project is to adapt GPT-2, originally designed for English text, to generate coherent and contextually accurate Hindi text.
