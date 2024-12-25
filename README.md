@@ -14,6 +14,7 @@
   - Outputs improved significantly across epochs in terms of fluency, grammar, and coherence.
   - Generated text shows strong alignment with Hindi syntax and semantics.
 
+https://github.com/sursorot/GPT2-Oscar-Hindi-Epoch-3/blob/da43c2010ee62eddc5d83a3b889c64373bec96bc/Indic_GPT2_Model%20Comparison%20Table.png
 
 ---
 
