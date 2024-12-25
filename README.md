@@ -13,7 +13,6 @@
 - **Results**:
   - Outputs improved significantly across epochs in terms of fluency, grammar, and coherence.
   - Generated text shows strong alignment with Hindi syntax and semantics.
-  -![Model Comparison](Indic_GPT2_Model Comparison Table.png)
 
 ---
 ## Repository Contents
