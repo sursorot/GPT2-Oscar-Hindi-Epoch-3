@@ -43,3 +43,4 @@ This project demonstrates the power of adapting large language models like GPT-2
 - Creative writing in Hindi
 ---
 Feel free to explore the repository and contribute!
+You can reach me @ latinquarter24@gmail.com
