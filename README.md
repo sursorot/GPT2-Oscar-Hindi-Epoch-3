@@ -14,13 +14,6 @@
   - Outputs improved significantly across epochs in terms of fluency, grammar, and coherence.
   - Generated text shows strong alignment with Hindi syntax and semantics.
 
----
-
-## Model Comparison
-
-The Table below illustrates the results of the fine-tuned GPT-2 model at GPT2base, Trained epoch1, epoch2, and epoch 3 models.
-
-![Model Comaprison](Indic_GPT2_Model Comparison Table.png)
 
 ---
 
